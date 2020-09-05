@@ -30,7 +30,7 @@ class StudentDesks {
             tables3++;
           }
 
-          System.out.println(tables1 + tables2 + tables3);
+          System.out.print(tables1 + tables2 + tables3);
         // closing the scanner object
         scanner.close();
     }

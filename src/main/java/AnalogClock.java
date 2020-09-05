@@ -16,7 +16,7 @@ class AnalogClock {
           minuteDegrees *= 12;
         }
 
-        System.out.println(minuteDegrees);
+        System.out.print(minuteDegrees);
         // closing the scanner object
         scanner.close();
     }
